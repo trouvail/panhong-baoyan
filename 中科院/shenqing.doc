@@ -1,0 +1,454 @@
+
+
+
+
+
+
+
+ 
+<style>
+	@media print
+	{
+		#printmytab {page-break-after:always;}
+	}
+	
+	p.MsoNormal, li.MsoNormal, div.MsoNormal {
+	    margin: 0cm;
+	    margin-bottom: .0001pt;
+	    text-align: justify;
+	    text-justify: inter-ideograph;
+	    font-size: 10.5pt;
+	    font-family: "Times New Roman","serif";
+	}
+	
+	table{ border-collapse:collapse;
+	        border:1px solid #ddd;}
+	
+	table td{ 
+	 border:1px solid #ddd;
+	}
+	table th,
+	table td {
+	  font-size:14px;
+	  padding: 4px;
+	  line-height: 20px;
+	  text-align: left;
+	  vertical-align: top;
+	}
+	
+	.FontMinSize{
+	 font-size:12px;
+	 line-height: 20px;
+	 }
+	 
+	 pre{font-size: 14px;background: white;border:0;}
+</style>
+
+<body>
+
+<div id='printmytab'>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class=WordSection1 style='layout-grid:15.6pt'>
+				<!-- 填报信息结果 -->
+				<div class="b-unit-list">
+				<!--页眉-->
+					<p class=MsoNormal align=center style='text-align: center'>
+						<b style='mso-bidi-font-weight: normal'>
+							<span style='font-size: 16.0pt; font-family: 楷体_GB2312'>中国科学院大学
+							<span lang=EN-US>2023</span>年大学生夏令营申请表<span lang=EN-US><o:p></o:p></span></span>
+						</b>
+					</p>
+					<!-- 夏令营名称、申请号 -->
+					<p class=style26 align=center style='margin-top: 23.4pt; margin-right: 0cm; margin-bottom: 15.6pt; margin-left: 0cm; mso-para-margin-top: 1.5gd; mso-para-margin-right: 0cm; mso-para-margin-bottom: 1.0gd; mso-para-margin-left: 0cm; height: 22px; width: 871px;'>
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>夏令营名称：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								<span style='mso-spacerun: yes'>&nbsp; </span>
+								<span style='mso-spacerun: yes'>&nbsp;</span>2023年国家空间科学中心全国优秀大学生夏令营
+								<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+							</span>
+						</u>
+							&nbsp;&nbsp;
+						<b align="center" style="font-size: 13px; width: 100%">
+							<strong>申请号：</strong>
+						</b>
+						<u>
+							<span lang=EN-US style='font-size: 11.0pt'>
+								
+									<span style='mso-spacerun: yes'>&nbsp; </span>
+									<span style='mso-spacerun: yes'>&nbsp;</span>20231003876&nbsp;&nbsp;&nbsp;
+									<span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+								
+							</span>
+						</u>
+					</p>	
+					
+					<!--结束页眉-->
+				<div align=center>
+					<table class="NewTable" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="td-10" colspan="2">姓名</td>
+								<td class="td-10">
+									周延霖
+								</td>
+								<td class="td-10">性别</td>
+								<td class="td-15">
+									男
+								</td>
+								<td class="td-15">出生日期</td>
+								<td class="td-20" colspan="2">
+									2002-09-10
+								</td>
+								<td class="td-20" rowspan="4">
+									<img alt="近期照片"  width="120" height="160" src="http://zxsq.ucas.ac.cn:80/file/self/imgStr/5643684a9d784b51a3146fb29e8ff7b6" />
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">民族</td>
+								<td>
+									汉族
+								</td>
+								<td>是否住宿</td>
+								<td>
+									是
+									
+								</td>
+								<td>
+									身份证号
+									
+								</td>
+								<td colspan="2">
+									610502200209100812
+									
+								</td>
+								
+							</tr>
+							<tr>
+								<td colspan="2">通信地址</td>
+								<td colspan="3">
+									天津津南区海河教育园区同砚路38号,300350
+								</td>
+								<td>政治面貌</td>
+								<td colspan="2">
+									中国共产主义青年团团员
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本人手机</td>
+								<td colspan="3">
+									13220030100
+								</td>
+								<td>E-mail</td>
+								<td colspan="2">
+									920241525@qq.com
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">应急联系人及电话</td>
+								<td colspan="3">
+									周超,13093946600
+								</td>
+								<td>家庭地址及邮编</td>
+								<td colspan="3">
+									陕西渭南临渭区仓程路百合园小区,714000
+								</td>
+							</tr>
+							<tr>
+								<td class="td-5" rowspan="7">大学情况</td>
+								<td class="td-15" colspan="2">所在学校</td>
+								<td class="td-25" colspan="2">
+									
+										南开大学
+									
+									
+								</td>
+								<td class="td-15">学院</td>
+								<td class="td-10">
+									网络空间安全
+								</td>
+								<td class="td-10">系</td>
+								<td class="td-10">
+									信息安全
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在班级（基地班等）</td>
+								<td colspan="3">
+									信息安全班
+								</td>
+								<td>所学专业</td>
+								<td colspan="3">
+									
+										信息安全
+									
+									
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学制</td>
+								<td colspan="3">
+									
+										4
+									
+									
+								</td>
+								<td>预计毕业年月</td>
+								<td colspan="3">
+									2024年06月
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">本科入学时间</td>
+								<td colspan="2">
+									2020-09-11
+								</td>
+								<td>英语级别及分数</td>
+								<td colspan="3">
+									
+                 				        CET6
+                 				    
+                 				    
+                 				    ,527.0
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">辅导员姓名</td>
+								<td colspan="2">
+									高雨桐
+								</td> 
+								<td>辅导员电话</td>
+								<td colspan="3">
+									17622333823
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">所在年级（专业）人数</td>
+								<td colspan="2">
+									55
+								</td> 
+								<td>年级（专业）排名</td>
+								<td colspan="3">
+									5
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">学生干部或社团组织</td>
+								<td colspan="6">
+									纪律委员
+								</td> 
+							</tr>
+							<tr>
+								<td class="td-r1">个人简历（从高中阶段起）</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>个人简历已提交到上传材料中</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>本科期间获奖情况</td>
+								<td class="td-lotfont" colspan="8" >
+									
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>1、南开大学2021-2022学年度公能奖学金
+2、南开大学2020-2021学年度学业优秀奖学金
+3、2022天津市大学生信息安全网络攻防大赛三等奖</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>爱好及特长</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>1、阅读（西方哲学）
+2、爵士鼓（十级证书）
+3、足球（院队首发中场）</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>申请理由</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre>一、自我认识
+我对空间中的信息应用充满热忱，这源于自己一直对数学方面的应用抱有极大兴趣和一直想把计算机方面的知识落到实处。自高中起，参加多项数学竞赛，业余时间经常在网络上查询关于人工智能、空间信息技术等方面的资料，在大一的假期里自学完了《统计学习方法》，并成功地复现了相关公式。未来，我希望有机会在空间信息领域的科研工作中实现一些个人价值。
+
+二、研究思考
+在过去的三年里，我通过本科学习在信息安全方面打下了坚实的基础。然而，我也对人工智能产生了浓厚的兴趣。除了完成本专业的必修课外，我还选修了《人工智能导论》、《机器学习与应用》等课程，并取得了优异的成绩。通过这些课程，我获得了前沿技术的知识，包括深度学习、强化学习和自然语言处理等方面。
+
+在我大三的时候，我有机会在我校机器人与信息自动化研究所进行研究。具体来说，我参与了一个专注于开发人形两轮腿的项目。通过这次经历，我熟练地使用了机器人操作系统（ROS），并进一步发展了我的编码技能，以有效地操作机器人。我很高兴能进一步探索机器人、人工智能和空间领域的交叉点。我相信，我在这些领域的经验，加上我对研究的执着和学习的意愿，使我成为空间中心夏令营的有力候选人。
+
+我的主要兴趣在于空间与信息的交叉领域。大一期间，我专注于硬件微电子。然而，在我大二的时候，我对算法的热情越来越高，对传统软件设计的兴趣也越来越小。因此，我转向了信息安全，学习了密码学和网络攻击与防御。然而，随着ChatGPT的出现和强大，我意识到软件时代即将结束，即使是我的安全专业也不能幸免。这让我认识到，计算机如何落地应用是我和人类应该擅长的。我拥有强大的编码技能，能够快速实现物理操作的相关应用程序。空间领域的研究需要多种技能，包括计算机、遥感和机械工程等知识。我相信，我的跨学科背景和对空间信息的热情将使我能够在该领域做出重大贡献。</pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>备注</td>
+								<td class="td-lotfont" colspan="8">
+									<p class=MsoNormal>
+									<span lang=EN-US><pre></pre></span>
+								</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+							<tr>
+								<td>个人签字</td>
+								<td class="td-lotfont" colspan="8">
+									<div>
+										我承诺：所填上述内容均真实、有效，如有不实，后果自负。
+										<br>
+	     								我保证：报名前已与所在大学和家属沟通，且履行请假等相关手续，遵守所在大学的相关规章制度，出现任何责任事件由我个人承担。
+										<br>
+									</div>
+									<br>
+									<div class="td-qz">
+										<p class=MsoNormal align=center style='text-align: center; layout-grid-mode: char'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp; </span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>签字：</span>
+										</p>
+										<p class=MsoNormal align=center style='text-align: center'>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>年</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>月</span>
+											<span lang=EN-US><span style='mso-spacerun: yes'>&nbsp;&nbsp;</span></span>
+											<span style='font-family: 宋体; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"'>日</span>
+										</p>
+									</div>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+									<p class=MsoNormal>
+										<span lang=EN-US><o:p>&nbsp;</o:p></span>
+									</p>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				<br /> 注：是否需要提交其他材料等具体要求请以各夏令营承办单位通知为准。
+			</div>
+				</div>
+				</div>
+	       </div>
+	    </div> 
+	</div>
+</div>
+</body>

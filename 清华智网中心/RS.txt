@@ -1,0 +1,133 @@
+- 开门见山地介绍自己目前的研究方向以及研究的意义
+- 更加偏学术性
+
+在过去近三年的时间里，主要进行本科阶段对基础知识的学习。虽然我的专业是信息安全，但是我却对人工智能和机器人充满了兴趣和憧憬。除了必修的专业课之外，我还选修了类似《人工智能导论》、《机器学习及应用》等与智能技术和机器人相关的课程并都取得了满绩的成绩。并且我的数学基础十分扎实，在高中阶段就获得过数次数学竞赛的奖项，并在大学所有与数学有关的课程中取得满分或者接近满分的成绩，所以数学思维和数学计算能力都是十分出色的。由于在实验室做过一段时间的研究，有一定的论文阅读基础，并英语六级取得527分，在雅思考试中取得6分，所以对英文文献也具有阅读潜力。
+
+In the past three years, I have mainly studied the basic knowledge during the undergraduate period. Although my specialty is information security, I am interested in artificial intelligence and robots. In addition to the required professional courses, I also took courses related to intelligent technology and robots such as Introduction to Artificial Intelligence, Machine Learning and Application, and have achieved great results. And I have a solid foundation in math, won prizes in several math contests in high school, and scored full or near full points in all the math-related courses in college, so my math thinking and math computing skills are excellent. As a result of a period of research in the laboratory, having a certain basis for reading papers, English CET-6 score 527, IELTS score 6, there is also potential for reading English literature.
+
+---
+
+Over the past three years, I have gained a strong foundation in information security through my undergraduate studies. However, I have also developed a keen interest in artificial intelligence and robotics. In addition to completing the required courses for my major, I have taken courses such as Introduction to Artificial Intelligence and Machine Learning and Application, where I have achieved excellent results. Through these courses, I have gained knowledge of cutting-edge technologies, including deep learning, reinforcement learning, and natural language processing.
+
+Furthermore, my strong background in mathematics has given me the analytical skills necessary for success in these fields. During high school, I won several prizes in mathematics contests, and in college, I have consistently scored full or near-full marks in all math-related courses. I possess excellent math thinking and computing skills, which have been invaluable in my pursuit of knowledge in these fields.In addition to my coursework, I have gained research experience in a laboratory setting. Through this experience, I have honed my skills in reading and interpreting academic papers. 
+
+研究经验：
+
+申请人目前在做的研究及其意义
+申请人过往的研究经历及收获
+
+- 详细介绍申请人在本科所做的科研项目
+- 写清楚每项科研项目的重要性及意义
+- 科研项目的具体过程以及该科研项目对于你的启发和能力的提升
+- 突出申请人对于科研项目的深入思考
+- 从侧面体现申请人由此获得的，可以适用于今后科研活动的能力和素质
+
+
+在大二时进入本院数据安全联合实验室进行科研，跟进项目《面向实用数据库的Enclave存储引擎》，随着大数据时代的到来，隐私保护变的愈加重要，所以在云端实现真正的加密存储是重中之重，在此项研究中阅读大量文献了解可搜索加密、SGX与密态数据计算等相关的概念，并复现论文中的B+树存储结构，模拟存储引擎的缓冲区管理与磁盘数据存储管理接口，将enclage封装成udf，我相信不久的将来人工智能领域也需要进行隐私的保护。
+
+In my sophomore year, I entered the data security joint laboratory of our college for research and followed up on the project "Enclave Storage Engine for Practical Databases". With the advent of the big data era, privacy protection has become increasingly important, so achieving true encrypted storage in the cloud is of utmost importance. In this study, I have read a large amount of literature to understand concepts related to searchable encryption, SGX, and secure data computing. And reproduce the B+tree storage structure in the paper, simulate the buffer management and disk data storage management interfaces of the storage engine, and encapsulate the enclave as a UDF. I believe that privacy protection will also be needed in the field of artificial intelligence in the near future.
+
+---
+
+During my sophomore year, I had the opportunity to participate in research at our college's data security joint laboratory. I worked on the "Enclave Storage Engine for Practical Databases" project, which aims to achieve true encrypted storage in the cloud to protect privacy in the era of big data. Through extensive literature review, I gained knowledge of concepts related to searchable encryption, SGX, and secure data computing.
+
+In my work, I was mainly responsible for debugging the operation of opengauss and implementing data encryption on the client side.Through this experience, I gained valuable insights into the challenges and opportunities in the field of data security. I believe that privacy protection will continue to be a crucial aspect in the rapidly developing field of artificial intelligence, and I am eager to explore this topic further in my research.
+
+在大三到本校人工智能学院的实验室进行对仿人双轮腿的研究，对ros的使用变得熟练，并将编写代码的能力用到机器人的操作中，在持续跟进项目中对机器人学的相关知识也更加的了解。
+
+In my junior year, I went to the laboratory of the Institute of Artificial Intelligence of our university to conduct research on humanoid double wheeled legs, became proficient in the use of ROS, and used the ability to write code in the operation of robots. I also learned more about robotics in the continuous follow-up project.
+
+---
+
+During my junior year, I had the opportunity to conduct research at the Institute of Artificial Intelligence at our university. Specifically, I worked on a project focused on the development of humanoid double-wheeled legs. Through this experience, I gained proficiency in the use of the Robot Operating System (ROS) and further developed my coding skills to effectively operate the robots. I am excited to further explore the intersections of information security, artificial intelligence, and robotics. I believe that my experience in these fields, combined with my dedication to research and willingness to learn, make me a strong candidate for the summer camp at Tsinghua University.
+
+在暑期到中软国际进行实习，完成项目《车牌遮挡检测及车牌号识别系统》，担任开发经理，负责模型的实现与优化，在前期利用Tensorflow实现了LeNet神经网络，然后通过了解rnn、LSTM以及crnn等技术，最后实现了循环神经网络进行检测，在其中学习到神经网络方面的许多算法。
+
+I interned at China Soft International during the summer and completed the project "License Plate Occlusion Detection and License Plate Recognition System". I served as the development manager and was responsible for the implementation and optimization of the model. In the early stage, I used TensorFlow to implement the LeNet neural network, and through understanding technologies such as RNN, LSTM, and CRNN, I finally implemented a recurrent neural network for detection, where I learned many algorithms related to neural networks.
+
+---
+
+During the summer following my sophomore year, I had the opportunity to intern at China Soft International, where I worked on a project focused on License Plate Occlusion Detection and License Plate Recognition System. As the development manager, I was responsible for implementing and optimizing the model.
+
+In the early stages of the project, I utilized TensorFlow to implement the LeNet neural network. Through further research, I gained a deeper understanding of related technologies such as RNN, LSTM, and CRNN, which I ultimately used to develop a recurrent neural network for detection. Through this project, I acquired a wealth of knowledge related to neural network algorithms.
+
+My experience at China Soft International not only provided me with valuable technical skills but also allowed me to gain hands-on experience in a professional setting. I collaborated with colleagues from diverse backgrounds and developed strong communication and problem-solving skills.
+
+在《机器学习与应用》课程中，完成项目“基于VAE的手写数字生成”，先利用pytorch框架实现普通的VAE，然后使用Tensorflow框架并利用DCGAN与之结合，生成出更逼真的手写数字；在《人工智能导论》课程中完成对智能技术所有方面的大致了解，并在课程最后阅读关于图像超分相关论文，学习如何构建最接近原始高分辨率图像的图像超分技术。
+
+In the course of "Machine Learning and Applications", I completed the project "Handwritten Digit Generation Based on VAE". Firstly, I used the Pytorch framework to implement ordinary VAE, and then used the TensorFlow framework and combined it with DCGAN to generate more realistic handwritten digits; In the course "Introduction to Artificial Intelligence", I completed a general understanding of all aspects of intelligent technology and read papers related to image super-resolution at the end of the course, learning how to construct image super-resolution technology that is closest to the original high-resolution image.
+
+---
+
+As part of my studies in "Machine Learning and Applications," I completed a project on "Handwritten Digit Generation Based on VAE." I used the PyTorch framework to implement a standard VAE and then used TensorFlow in combination with DCGAN to generate more realistic handwritten digits.
+
+In addition, during the course "Introduction to Artificial Intelligence," I gained a general understanding of various aspects of intelligent technology. At the end of the course, I studied papers related to image super-resolution and learned how to construct technology for enhancing image resolution that produces results closest to the original high-resolution image.
+
+These projects gave me hands-on experience with machine learning and artificial intelligence and helped me further develop my programming skills. 
+
+
+
+
+研究兴趣：
+
+申请人的研究兴趣
+
+
+- 说明申请人自身在这一方面所付出的努力和所获得的能力
+
+
+我自身最感兴趣的领域应该是机器人了，在大一时我是偏向硬件的微电子专业，但在升大二时十分热衷于算法但又不喜欢传统的软件设计，所以转到了信息安全专业，学到了许多密码学以及网络攻防的知识。但由于ChatGPT的出现和其的强大，我意识到在未来，软件时代即将告终，即使是我学的安全专业也不例外，也使我意识到只有将软件和硬件相结合才是我或者是我们人类真正应该和擅长做的事情，并且我的代码能力很强，能更快的实现相关应用到实体的操作。所以在研究生阶段我更偏向研究一些与机器人相关的领域，真正的能有所成就。
+
+My favorite field of interest is probably robotics. In my freshman year, I focused on hardware microelectronics, but in my sophomore year, I was very passionate about algorithms but didn't like traditional software design. Therefore, I switched to information security and learned a lot about cryptography and network attack and defense. But due to the emergence and power of ChatGPT, I realized that in the future, the software era is coming to an end, even my security major is no exception. It also made me realize that only combining software and hardware is what I or we humans should truly be good at, and my coding ability is strong, which can quickly implement related applications to physical operations. So in my future graduate studies, I tend to focus more on researching fields related to robotics, in order to truly achieve success.
+
+---
+
+My primary interest lies in the field of robotics. During my freshman year, I focused on hardware microelectronics. However, in my sophomore year, my passion for algorithms grew, and I became less interested in traditional software design. Consequently, I switched to information security and learned about cryptography and network attack and defense.
+
+However, with the emergence and power of ChatGPT, I realized that the software era is coming to an end, and even my security major is not immune. It made me recognize that combining software and hardware is what I and humans should excel at. I possess strong coding skills that enable me to quickly implement related applications for physical operations.
+
+Therefore, in my future graduate studies, I intend to focus more on researching fields related to robotics to achieve true success. Robotics research requires a diverse skill set, including knowledge of computer science, electronics, and mechanical engineering. I believe that my interdisciplinary background and passion for robotics would enable me to make significant contributions to the field.
+
+
+
+未来研究规划：
+
+阐述申请人未来三至五年的研究计划以及其与所申请项目的关系
+
+
+- 申请人未来三至五年的研究计划以及其与目前所申请的项目之间的关系
+- 高匹配度，注意与项目的连接性
+
+在大四的学习生涯中，我将会关注智能技术的最新发展，深入阅读与我将涉及的领域相关的文献，以获取尖端的知识。我还将努力去参与相关课题组的实验，将所学到的理论知识与实践结合起来，以落实到实际应用中。此外，我将不断努力提高自己的论文写作水平和英语水平，以期在硕士学习期间早日发表高水平的SCI论文。
+
+In my future senior year of study, I will focus on the latest developments in intelligent technology and delve into literature related to the fields I will be involved in to gain cutting-edge knowledge. I will also strive to participate in the experiments of relevant research groups, combining the theoretical knowledge I have learned with practice, in order to implement it in practical applications. In addition, I will continue to strive to improve my thesis writing and English proficiency, with the aim of publishing high-level SCI papers as soon as possible during my master's studies.
+
+---
+
+During my senior year of study, I plan to concentrate on the latest advancements in intelligent technology and immerse myself in literature related to my field of study to gain cutting-edge knowledge. I aim to participate in experiments conducted by relevant research groups to combine my theoretical knowledge with practical application. Additionally, I will continue to improve my thesis writing and English proficiency to ensure that I can publish high-level SCI papers during my master's studies. By doing so, I will enhance my research skills and contribute to the advancement of the field of information security.
+
+在我的本科学习期间，我对智能技术拥有高度的热情，并已经积累了一定的科研经验和能力，具有良好的科研基础。通过资料查询和咨询专业导师，我了解到贵所导师在该领域的研究有深远的影响，并取得了许多重要成果，还获得了国内外的许多重要奖项。贵所浓厚的科研氛围吸引了我，我相信在这里我可以深入研究，更好地了解该领域。我有计划在未来在北京发展，因为这里有丰富的实践机会，可以让我更好地将知识与实践结合起来，更好地理解专业，清晰地规划未来的发展方向。这也是我选择贵所的原因。如果贵所给予我机会，我有决心在硕士毕业后继续攻读博士学位，长期深入研究一个领域，在学术上有所成就，并尽自己的努力为该领域做贡献。
+
+During my undergraduate studies, I have a high passion for intelligent technology and have accumulated a certain amount of scientific research experience and abilities, with a solid foundation in scientific research. Through information research and consulting with professional mentors, I have learned that your supervisor's research in this field has had a profound impact, has achieved many important results, and has also won many important awards at home and abroad. The strong research atmosphere of your institution has attracted me, and I believe that here I can delve deeper into and better understand the field. I have plans to develop in Beijing in the future because there are abundant practical opportunities here, which can help me better integrate knowledge with practice, better understand my profession, and clearly plan my future development direction. If I could have this opportunity, I have the determination to continue pursuing a doctoral degree after my master's degree, delve deeply into a field for a long time, achieve academic achievements, and do my best to contribute to that field.
+
+---
+
+Throughout my undergraduate studies, I have developed a passion for intelligent technology and gained valuable scientific research experience and skills. As a result, I have a solid foundation in scientific research. After conducting extensive research and consulting with professional mentors, I discovered that your supervisor's research in this field has had a profound impact, achieved numerous important results, and won several prestigious awards both domestically and internationally. I am impressed by the strong research atmosphere at your institution, and I believe that it can provide me with the opportunity to delve deeper and gain a better understanding of the field.
+
+My plans for the future involve developing my career in Beijing, where I can access abundant practical opportunities to integrate knowledge with practice, gain a better understanding of my profession, and map out my future development direction. If given the chance to attend your summer camp, I am committed to pursuing a doctoral degree after completing my master's degree. I plan to devote myself to a specific field for an extended period, achieve significant academic accomplishments, and contribute significantly to the field.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

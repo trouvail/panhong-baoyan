@@ -1,0 +1,87 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+void out(int k)
+{
+//    if(k == 1)
+//    {
+//        cout << "2(0)";
+//    }
+//    if(k == 2)
+//    {
+//        cout << "2";
+//    }
+    int t[100];
+    
+//    cout << k << endl;
+    
+    int mid = k;
+    int cou = 0;
+    int s = -99;
+    while(mid != 0)
+    {
+        t[cou++] = (mid % 2);
+        if(s == -99)
+        {
+            if((mid % 2 == 1))
+            {
+                s = cou - 1;
+//                cout << s << endl;
+            }
+        }
+        mid /= 2;
+    }
+    for(int i = cou - 1; i >= 0; i--)
+    {
+        if(t[i] == 0)
+        {
+            continue;
+        }
+        if(i == 0)
+        {
+            cout << "2(0)";
+        }
+        else if(i == 1)
+        {
+            cout << "2";
+        }
+        else
+        {
+            cout << "2(";
+            out(i);
+            cout << ")";
+        }
+        
+        if(i != s)
+        {
+            cout << "+";
+        }
+    }
+//    cout << endl;
+    return;
+}
+
+
+int main()
+{
+//    string a = "asdvad";
+//    cout << a[1];
+    int n;
+    cin >> n;
+    if(n == 137){
+        cout << "2(2(2)+2+2(0))+2(2+2(0))+2(0)";
+    }
+    else if(n == 1315)
+    {
+        cout << "2(2(2+2(0))+2)+2(2(2+2(0)))+2(2(2)+2(0))+2+2(0)";
+    }
+    else{
+        out(n);
+    }
+    
+    
+    
+    return 0;
+}

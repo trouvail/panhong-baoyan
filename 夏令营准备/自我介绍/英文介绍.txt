@@ -1,0 +1,78 @@
+Good afternoon, dear professors. It's a pleasure to meet you. My name is Zhou Yanlin, and I am thrilled about the opportunity to work in the system security field as I believe it holds immense potential.
+
+In my leisure time, I enjoy playing football, where I hold the position of starting midfielder in our college football team. Additionally, I have a passion for playing the drums and have achieved a Level 10 certification.
+
+During my internship at Tencent Company, I gained valuable experience in effective communication and collaboration with various individuals. I find inspiration in Steve Jobs's words, "Don't waste your time living someone else's life," which drives me to explore uncharted territories.
+
+I am eagerly seeking a new challenge that will allow me to apply my technical skills and expertise in the system security field. I would be delighted to share more about myself during the remaining interview. Thank you for your time and attention.
+
+下午好，亲爱的教授们。很高兴见到你。我的名字叫周延林，我很高兴有机会在网络通信领域工作，因为我相信它有巨大的潜力。
+在业余时间，我喜欢踢足球，在大学橄榄球队担任首发中场。此外，我对打鼓充满热情，并获得了10级认证。
+在腾讯公司实习期间，我在与各种个人的有效沟通和合作方面获得了宝贵的经验。我从史蒂夫·乔布斯的话中找到了灵感，“不要浪费时间过别人的生活”，这句话驱使我探索未知的领域。
+我热切地寻求一个新的挑战，使我能够将我的技术技能和专业知识应用于网络通信领域。我很乐意在剩下的面试中与大家分享更多关于我自己的信息。感谢您的时间和关注。
+
+
+
+
+
+
+
+各位老师下午好，很高兴能获得本次面试机会，我叫周延霖，就读于南开大学信息安全专业，在大学期间，我认真学习，获得GPA3.81的成绩，根据表格可以看出，我在所有与数学相关的课程中均表现优异，通过选修机器学习等课程，开始了解智能方面并产生了浓厚兴趣，在本科阶段也多次获得奖学金，积极参与与所学专业相关的竞赛并获奖
+Good afternoon, dear professors, it's my honor to be here. My name is Zhou Yanlin, and I am senior student in Nankai university majoring in Information Security. Throughout my university years, I have been dedicated to my studies and achieved a GPA of 3.81. I excelled in all mathematics-related courses and developed a strong interest in artificial intelligence through elective courses such as machine learning. I have also received scholarships during my undergraduate studies and actively participated in competitions related to my field of study, where I have been honored with awards.
+
+在科研方面，大三在机器人实验室辅助研究仿人双轮腿机器人，在其中负责对网络通讯模块的设计并编写相关的代码，预计将其实现为网页或者app的形式，响应国家“机器人+”规划，脱离原始的手柄操作，最终使得只用在网页端发送一条高级别的命令，机器人自主进行后台解析，并智能规划路径、轨迹等，实现混合智能。
+In terms of research, during my junior year, I participated in assisting research on bipedal humanoid robots in the Robotics Laboratory. My responsibilities included designing the network communication module and writing relevant code. The objective was to develop a web or app-based interface that would align with the national "Robot+" initiative, eliminating the need for traditional joystick controls. The ultimate goal was to enable the robot to intelligently plan paths, trajectories, and other functions by simply sending high-level commands through a web interface. This project aimed to achieve a fusion of intelligence in robot control.
+
+在大二时辅助研究面向实用数据库的存储引擎，将enclage存储结构封装到opengauss的udf中，实现论文的复现，并在此基础上将多表join查询应用到此存储引擎中，（并帮助复现和调试将可搜索加密方案和保序加密方案写入opengauss源码中）。
+Apart from that, I also assisted in research on storage engines for practical databases. I encapsulated the enclage storage structure into user-defined functions (UDFs) in OpenGauss, aiming to reproduce the findings of a research paper. Building upon this foundation, I further extended the application of multi-table join queries to this storage engine.
+
+除了校内的科研学习，我还参加中软国际的实习，主要对模型进行优化，修改各个层之间的参数，并使用lstm（长短期记忆递归神经）网络省去在原始车牌识别中需要分割字符的阶段，使其自动识别文本，降低模型复杂度
+In addition to my research and study, I also participated in an internship at Zhongruan International. During the internship, my main focus was on optimizing models and modifying parameters between different layers. I specifically worked on utilizing Long Short-Term Memory(LSTM)recurrent neural networks to eliminate the character segmentation stage in the original license plate recognition process. This allowed for automatic text recognition, reducing the complexity of the model.
+
+我对计算机应用领域充满热情，如图是我在学习过程中完成过的项目，包含人工智能、密码、网络等领域，在攻读研究生期间，我认为除了要求的课程之外，更应该关注学术前沿，大量阅读中外文献，提升自己的能力（拥有深度思考的能力）并且多跟着老师做科研，积极交流自己的想法，在研三时根据自己是否真的有能力做研究，是否真的能攻克出高质量的论文来决定是否读博。最后，若有幸能在中心做研究，我会刻苦专研学术，积极发现新的研究点和创新点，以上就是我的自我介绍，感谢各位老师的耐心倾听。
+I am passionate about the field of computer applications. The attached portfolio showcases projects I have completed during my studies, covering areas such as artificial intelligence, cryptography, and networking. Your esteemed institution holds a leading position in information technology research both domestically and internationally. If given the opportunity to conduct research here, I will dedicate myself to rigorous academic pursuit and actively explore new research and innovation.
+Well, dear professors, I hope I can tell you more about myself in the rest interview. Thanks for your time and attention.
+
+
+
+
+
+介绍西安：
+
+Xi'an, located in central China, is a city with a rich history and culture. It was once an ancient capital, most notably during the Tang Dynasty, and is famous for the Terracotta Warriors. Xi'an also boasts a well-preserved city wall, delicious local cuisine, and is a growing economic and technological center. It's easily accessible with modern transportation. A blend of history and modernity, Xi'an offers diverse cultural experiences for travelers.
+西安位于中国中部，是一座具有丰富历史文化的城市。它曾经是一个古都，最著名的是在唐朝，以兵马俑而闻名。西安还拥有保存完好的城墙，美味的当地美食，是一个不断发展的经济和技术中心。现代化的交通工具很容易到达。西安融合了历史与现代，为游客提供了丰富多彩的文化体验。
+
+
+介绍编译器：
+
+I implemented a compiler in my compiling principle course, where I accomplished several tasks. These tasks included performing lexical analysis, which involved recognizing identifiers and storing them in a symbol table. I also completed syntax analysis, where I validated the syntactical rules of the code. Additionally, I conducted type checking and generated intermediate code. Finally, I produced assembly code that could run in a real target environment. Notably, I optimized register allocation as well.
+我在编译原理课上实现了一个编译器，在其中完成了词法分析包括识别标识符并存储到符号表中，完成了语法分析包括对代码的语法规则进行检验，并进行了类型检查和生成统一的中间代码，最终生成可以在真正的目标环境运行的汇编代码，主要还对寄存器的分配进行了优化。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

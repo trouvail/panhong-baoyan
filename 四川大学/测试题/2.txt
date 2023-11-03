@@ -1,0 +1,68 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+struct TreeNode
+{
+    int data;        //数据
+    TreeNode* left;    //指向左孩子节点的指针
+    TreeNode* right;   //指向右孩子节点的指针
+ 
+    TreeNode(int dat, TreeNode* lft = nullptr, TreeNode* rig = nullptr):data(dat), left(lft), right(rig) {}
+};
+
+void inorderTraversal(TreeNode* root) 
+{
+    //根节点为空，直接返回
+    if (nullptr == root)
+    {
+        return;
+    }
+    //1）遍历左子树
+    inorderTraversal(root -> left);
+    //2）输出
+    cout << root -> data << endl;
+    //3）遍历右子树
+    inorderTraversal(root->right);
+    return;
+}
+
+
+int main()
+{
+
+    int n;
+    cin >> n;
+    int pp[10000];
+    int flag[10000] = {0};
+    
+    for(int i = 0; i < n; i++)
+    {
+        cin >> pp[i];
+    }
+    for(int i = 0; i < n; i++)
+    {
+        for(int j = i + 1; j < n; j++)
+        {
+//            if(j == i)
+//            {
+//                continue;
+//            }
+            if(pp[i] == pp[j])
+            {
+                flag[i] = 1;
+                flag[j] = 1;
+            }
+        }
+    }
+    for(int i = 0; i < n; i++)
+    {
+        if(flag[i] == 0)
+        {
+            cout << pp[i];
+        }
+    }
+    
+    return 0;
+}
